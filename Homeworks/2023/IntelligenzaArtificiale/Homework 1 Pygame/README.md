@@ -1,2 +1,2 @@
 # HOMEWORK 1
-Esempio di homework con votazione 30/30
+Esempio di homework con voto 30/30
