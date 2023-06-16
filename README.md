@@ -12,6 +12,8 @@ Alla fine il corso è stato strutturato nel seguente modo:
 - Le 6 crocette della parte di Machine Learning valgono un punto ciascuna e si aggiungono al voto dell'homework
 - Le 6 crocette della parte di Intelligenza Artificiale vengono valutate in 30-esimi e viene poi fatta la media con i due homework
 - Il voto finale è dato dalla media dei voti finali delle due parti del corso.
+
+  
 Gli homework di tutto il corso sono stati validi solo per gli appelli di giugno e luglio, quelli della parte di IA possono essere sostituiti da un esame orale.
 
 Esempio:
