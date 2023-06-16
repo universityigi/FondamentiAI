@@ -1,7 +1,7 @@
 # Fondamenti di Intelligenza Artificiale
 
-Corso tenuto per il primo anno nel 2021/22. Nardi (Umili nel 2022/23) e Silvestri si dividono le due metá del corso, la prima sull'intelligenza artificiale simbolica, la seconda sul machine learning.
-Durante il corso ci sta la possibilitá di svolgere homeworks, che vanno ad incidere notevolmente sul voto finale d'esame. L'esame é a crocette.
+Corso tenuto per la prima volta nel 2021/22. Il corso è diviso in due parti, la prima sull'intelligenza artificiale simbolica, la seconda sul machine learning.
+Durante il corso c'è la possibilitá di svolgere homeworks, che vanno ad incidere notevolmente sul voto finale d'esame. L'esame é a crocette.
 
 __Anno Accademico 2022/23__ Professori: Silvestri (Machine Learning), Umili (Intelligenza Artificiale). 
 Anche quest'anno ci sono stati tanti problemi di organizzazione, in particolare sul peso degli homework e sul voto massimo raggiungibile.
@@ -12,7 +12,7 @@ Alla fine il corso è stato strutturato nel seguente modo:
 - Le 6 crocette della parte di Machine Learning valgono un punto ciascuna e si aggiungono al voto dell'homework
 - Le 6 crocette della parte di Intelligenza Artificiale vengono valutate in 30-esimi e viene poi fatta la media con i due homework
 - Il voto finale è dato dalla media dei voti finali delle due parti del corso.
-
+Gli homework di tutto il corso sono stati validi solo per gli appelli di giugno e luglio, quelli della parte di IA possono essere sostituiti da un esame orale.
 
 Esempio:
 - Voto Homework ML: 24/24
